@@ -1,0 +1,11 @@
+Se generó una reserva con el usuario dfbxf  en la habitación 201 en 2/05/2020 11:38:42 p. m. y se queda 1 dias
+Se ocupó una reserva con el usuario dfbxf  en la habitación 201 en 2/05/2020 11:38:44 p. m.
+Se Pagó una reserva con el usuario dfbxf  en la habitación 201 en 2/05/2020 11:38:46 p. m.
+Se generó una reserva con el usuario asdad  en la habitación 201 en 2/05/2020 11:39:11 p. m. y se queda 1 dias
+Se ocupó una reserva con el usuario asdad  en la habitación 201 en 2/05/2020 11:39:13 p. m.
+Compra hecha por el usuario asdad en 2/05/2020 11:39:20 p. m.
+Compro: - Almuerzo-precio unitario: $ 25000->1 - Vino-precio unitario: $ 50000->1 - Vino-precio unitario: $ 50000->1
+Se Pagó una reserva con el usuario asdad  en la habitación 201 en 2/05/2020 11:39:26 p. m.
+Se generó una reserva con el usuario sfzxfz  en la habitación 201 en 2/05/2020 11:45:53 p. m. y se queda 3 dias
+Se ocupó una reserva con el usuario sfzxfz  en la habitación 201 en 2/05/2020 11:45:55 p. m.
+Se Pagó una reserva con el usuario sfzxfz  en la habitación 201 en 2/05/2020 11:45:57 p. m.

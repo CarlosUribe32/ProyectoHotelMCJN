@@ -1,0 +1,16 @@
+Informacion del usuario: dfbxf con CC: 111222333 estadia de 1 dias
+Compró: 
+IVA = 19% | Subtotal compras = 0 | Valor de habitacion = 200000/dia | Descuento = 10% |Valor total = 214199,999645352
+-----------------------------------------------------------------------------------------------------
+Informacion del usuario: asdad con CC: 333444555 estadia de 1 dias
+Compró: 
+145|2/05/2020 11:39:20 p. m.
+   Almuerzo: 1
+   Vino: 1
+   Vino: 1
+IVA = 19% | Subtotal compras = 148750 | Valor de habitacion = 200000/dia | Descuento = 0% |Valor total = 386750
+-----------------------------------------------------------------------------------------------------
+Informacion del usuario: sfzxfz con CC: 555666777 estadia de 3 dias
+Compró: 
+IVA = 0% | Subtotal compras = 0 | Valor de habitacion = 200000/dia | Descuento = 10% |Valor total = 539999,99910593
+-----------------------------------------------------------------------------------------------------

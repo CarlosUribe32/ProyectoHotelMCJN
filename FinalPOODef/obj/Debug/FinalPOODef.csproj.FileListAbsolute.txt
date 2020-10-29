@@ -1,0 +1,16 @@
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.CancelarReserva.resources
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.CheckIn.resources
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.CheckOut.resources
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.Form1.resources
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.FormCompra.resources
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.FormLog.resources
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.FormReserva.resources
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.csproj.GenerateResource.cache
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\bin\Debug\FinalPOODef.exe.config
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\bin\Debug\FinalPOODef.exe
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\bin\Debug\FinalPOODef.pdb
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.Properties.Resources.resources
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.exe
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.pdb
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.csprojAssemblyReference.cache
+C:\Users\jcugl\Documents\Visual Studio 2019\POO\ProyectoFinal\Version Alpha 1.3\FinalPOODef\FinalPOODef\obj\Debug\FinalPOODef.csproj.CoreCompileInputs.cache
